@@ -8,6 +8,10 @@ Version 1.0 of the Radio Big project
 
 Essentially just an inefficient, hastily thrown together proof-of-concept
 
+TODO:
+Change the really fucky and inefficient song selection logic
+Load song/event queue before hand instead of deciding at playtime.
+
 """
 
 
